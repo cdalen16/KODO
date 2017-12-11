@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLAH 3.CSharp.Plugins", "OLAH 3.CSharp.Plugins.csproj", "{49665E0F-342A-D018-D2E2-094D62E2B8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLAH 3.CSharp", "OLAH 3.CSharp.csproj", "{2C8C46FB-BB44-F15B-D913-F3550C8424D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLAH 3.CSharp.Editor", "OLAH 3.CSharp.Editor.csproj", "{59078003-017A-0874-47F1-9B5F90DE0763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49665E0F-342A-D018-D2E2-094D62E2B8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49665E0F-342A-D018-D2E2-094D62E2B8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49665E0F-342A-D018-D2E2-094D62E2B8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49665E0F-342A-D018-D2E2-094D62E2B8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8C46FB-BB44-F15B-D913-F3550C8424D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8C46FB-BB44-F15B-D913-F3550C8424D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8C46FB-BB44-F15B-D913-F3550C8424D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8C46FB-BB44-F15B-D913-F3550C8424D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59078003-017A-0874-47F1-9B5F90DE0763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59078003-017A-0874-47F1-9B5F90DE0763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59078003-017A-0874-47F1-9B5F90DE0763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59078003-017A-0874-47F1-9B5F90DE0763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
