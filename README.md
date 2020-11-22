@@ -1,2 +1,3 @@
 # KODO
-A Unity 2D shooter.
+A remake of our original game "Olah" in C# using Unity.
+The new game added animations, audio effects, graphical improvements, and more. 
